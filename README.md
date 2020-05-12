@@ -22,3 +22,5 @@
 <strong>👉Footer simple👈</strong><br>
 
 <h2>⚡It was used HTML5 y bootstrap 4.4⚡</h2>
+
+https://imgur.com/AfALfHY

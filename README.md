@@ -10,9 +10,9 @@
 <strong>👉Footer sencillo👈</strong><br>
 
 <h2>⚡Se ultilizo HTML5 y bootstrap 4.4⚡</h2>
-
-
-
+<br>
+<br>
+<br>
  [ENG]
  <h1>❗Login screen❗</h1>
  <hr>
